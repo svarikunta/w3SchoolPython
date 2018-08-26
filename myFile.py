@@ -1,3 +1,4 @@
 print("Enter your name")
-x=input()
+x=3
+x**=5;
 print(x)
